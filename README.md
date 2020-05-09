@@ -3,7 +3,7 @@
 
 - Code for paper "Uncorrelated Discriminant Graph Embedding for Fault Diagnosis".
 - Unzip the dataset file "TE_dataset.zip" in the same directory with the matlab files.
-- Run the code "NDGE_demo.m" or paste the code into the command window of matlab to run the code.
+- Run the code "UDGE_demo.m" or paste the code into the command window of matlab to run the code.
 - The demo is designed for the fault modes in Case 1.
 - The outputs include the final projection matrix of NDGE, the accuracies of different dimensions, and the probabilities of each samples to different fault modes.
 - the plot of the accuracies of different dimensions will be obtained after the running of the code.
